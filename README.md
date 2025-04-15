@@ -1,8 +1,8 @@
 <h2>Hey, I'm Ananda! 👋🏽</h2>
 
-<p>I'm a 22 year-old developer based in Indonesia, and i'm passinonate about crafting digital experiences</p>
+<p>I'm a 24 year-old developer based in Indonesia, and i'm passinonate about crafting digital experiences</p>
 
-- 🌱 I’m currently learning **PHP, Typescript, Go, Docker**
+- 🌱 I’m currently learning **Go, Typescript**
 
 - 💬 Ask me about **React, Express**
 
