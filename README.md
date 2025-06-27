@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Go, Typescript**
 
-- 💬 Ask me about **React, Express**
+- 💬 Ask me about **React, Express, Katalon**
 
 - 📄 Know about my experiences at my [LinkedIn](https://www.linkedin.com/in/anandafpp/)
 
@@ -19,6 +19,8 @@
 **Version Control :** `Git` `Gitlab`
 
 **Testing :** `Postman` `Jest`
+
+**Automation Tools :** `UiPath` `Katalon` `UFT` `Playwright`
 
 ## 🎲 Fun Facts
 
